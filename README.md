@@ -18,17 +18,17 @@ My main objective was quality maintenance for each iPads in the grade. I organiz
 More related work experiences can be found at: https://www.linkedin.com/in/rishi-siddharth-0024ba235/
 
 # [Project 1 - US Apartments](https://github.com/Rsiddharth54/U.S-Apartments-Project)
-#Dataset involving apartments all over the U.S 
-#Data cleaning, data manipulation
-#linear regression, mean sqaured error, and decision tree classifiers 
-#data visuals such as Matplotlib, confusion matric display, and the use of another dataset for accuracy comparison purposes
+- Dataset involving apartments all over the U.S 
+- Data cleaning, data manipulation
+- Linear regression, mean sqaured error, and decision tree classifiers 
+- Data visuals such as Matplotlib, confusion matric display, and the use of another dataset for accuracy comparison purposes
 
 # [Project 2 - Violence in America](https://drive.google.com/file/d/1nDogpm4zgvAgjSiDvB5WUJTseWvjF-h3/view?usp=drive_link)
-#Dataset that consisted of violence in America, split by murder, violence, robbery etc.
-#Conducted in Rstudio
-#data manipulation, data cleaning,  (forcats, lubridate, ggplot, dplyr).
-#Summary Statistics, data visualization, 
-#Spearman's rank, 
+- Dataset that consisted of violence in America, split by murder, violence, robbery etc.
+- Conducted in Rstudio
+- Data manipulation, data cleaning,  (forcats, lubridate, ggplot, dplyr).
+- Summary Statistics, data visualization, 
+- Spearman's rank, 
 
 
 
