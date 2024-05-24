@@ -1,6 +1,7 @@
 # Rishi Siddharth 
 # --------------------------------------------------------------------------------------------------------------------------------
-![alt text](image.jpg)
+![alt text](Rishi.jpg.png)
+
 
 # Education 
 American University, Graduating 2026
