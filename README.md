@@ -19,6 +19,9 @@ My main objective was quality maintenance for each iPads in the grade. I organiz
 
 More related work experiences can be found at: https://www.linkedin.com/in/rishi-siddharth-0024ba235/
 
+# Languages 
+- R, Python, Stata, SQL, Excel
+
 # [Project 1 - US Apartments](https://github.com/Rsiddharth54/U.S-Apartments-Project)
 - Dataset involving apartments all over the U.S 
 - Data cleaning, data manipulation
