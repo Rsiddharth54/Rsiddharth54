@@ -1,4 +1,5 @@
-# Rishi Siddharth --- 
+# Rishi Siddharth 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 
 # Education 
@@ -27,8 +28,8 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 - Dataset that consisted of violence in America, split by murder, violence, robbery etc.
 - Conducted in Rstudio
 - Data manipulation, data cleaning,  (forcats, lubridate, ggplot, dplyr).
-- Summary Statistics, data visualization, 
-- Spearman's rank, 
+- Summary Statistics, data visualization, linear regression
+- Spearman's rank, ANOVA, clear consiece explaination of results
 
 
 
