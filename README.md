@@ -30,7 +30,7 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 - Conducted in Rstudio
 - Data manipulation, data cleaning,  (forcats, lubridate, ggplot, dplyr).
 - Summary Statistics, data visualization, linear regression
-- Spearman's rank, ANOVA, clear consiece explaination of results
+- Spearman's rank, ANOVA, clear concise explaination of results
 
 
 
