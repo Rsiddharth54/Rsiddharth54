@@ -25,6 +25,7 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 
 # Languages 
 - R, Python, Stata, SQL, Excel
+- Currently learning: C, Julia, SAS
 
 
 # MORE PROJECTS COMING SOON!
