@@ -1,18 +1,20 @@
 # Rishi Siddharth 
-# --------------------------------------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------
 ![alt text](Rishi.jpg.png)
-
 
 # Education 
 American University, Graduating 2026
 London School of Economics 2024-2025 (Jr Year)
 Data Science major, International Business minor
 
+# About Me!
+I still manage to have fun outside of work. I love soccer, and still currently play on the club team at AU where I am a D1 practice player for the women's team as well. 
+
 # Relevant Work Experience
 
 Research Intern - Georgetown University                       May - August 2024
-  Spatial Program: I participated in research projects funded by the NSA that was investigated in teams. It was an intensive seven-week course emphasizing proofs and problem solving with workshops and daily homework consisting of modules that will include combinatorics, and theoretical (e.g. statistical methods for dispersed count data) and applied (e.g. modeling the spread of infectious and non-infectious diseases) statistics.
-
+  Spatial Program: I participated in research projects funded by the NSA and NSF. Our research focused on builing a predictive stock portofilio analytic model using time series, webscraping, etc to predict the price change of the future month. Currrently I am working on publishing my findings. 
+  
 Summer Technology Helper - Menlo Park School District         Jun 2023 - Aug 2023
 My main objective was quality maintenance for each iPads in the grade. I organized and managed data of the IPads, including routing numbers and serial numbers. Used JSON server to connect with laptops and integrate specific software to mitigate full usage of IPads for student.
 
@@ -21,6 +23,9 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 
 # Languages 
 - R, Python, Stata, SQL, Excel
+
+
+# MORE PROJECTS COMING SOON!
 
 # [Project 1 - US Apartments](https://github.com/Rsiddharth54/U.S-Apartments-Project)
 - Dataset involving apartments all over the U.S 
