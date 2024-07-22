@@ -1,5 +1,7 @@
 # Rishi Siddharth 
-# -----------------------------------------------------------------------------------------------------------------
+# Hi! Welcome to my Github!
+This repository is an introduction about me, my current projects/work experince, and more. Enjoy!
+Feel free to contact me - rs5309a@student.american.edu
 ![alt text](Rishi.jpg.png)
 
 # Education 
