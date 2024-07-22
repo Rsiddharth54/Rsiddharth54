@@ -2,7 +2,7 @@
 # Hi! Welcome to my Github!
 This repository is an introduction about me, my current projects/work experince, and more. Enjoy!
 Feel free to contact me - rs5309a@student.american.edu
-![alt text](Pentagon.png)
+![alt text](pentagon.png)
 
 # Education 
 American University, Graduating 2026
