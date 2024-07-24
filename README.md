@@ -36,7 +36,7 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 - Linear regression, mean sqaured error, and decision tree classifiers 
 - Data visuals such as Matplotlib, confusion matric display, and the use of another dataset for accuracy comparison purposes
 
-![alt text](imagwes/barchart.png)
+![alt text](imagwes/chart.png)
 ![alt text](images/matrix.png)
 ![alt text](images/usmap.png)
 
