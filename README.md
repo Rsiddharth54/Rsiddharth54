@@ -36,6 +36,10 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 - Linear regression, mean sqaured error, and decision tree classifiers 
 - Data visuals such as Matplotlib, confusion matric display, and the use of another dataset for accuracy comparison purposes
 
+![alt text](matrix.png)
+![alt text](usmap.png)
+![alt text](barchat.png)
+
 # [Project 2 - Violence in America](https://drive.google.com/file/d/1nDogpm4zgvAgjSiDvB5WUJTseWvjF-h3/view?usp=drive_link)
 - Dataset that consisted of violence in America, split by murder, violence, robbery etc.
 - Conducted in Rstudio
