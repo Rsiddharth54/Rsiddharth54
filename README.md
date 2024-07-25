@@ -52,5 +52,8 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 ![alt text](images/scatter_murders.png)
 ![alt text](images/state_barchart.png)
 
+USAfacts.org posted an article on November 8, 2023, which showed the highest murder rates. In their article, they state “Although Washington, DC, had a higher homicide death rate (33.3 homicide deaths per 100,000 people) than every state, it’s not a state — given its population density, a fairer comparison is to counties in major metropolitan areas.” This is exactly what our data showed, which, like the article states, is somewhat of an unfair compariosn due to it’s population density.
+
+https://usafacts.org/articles/which-states-have-the-highest-murder-rates/
 
 
