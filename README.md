@@ -48,5 +48,9 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 - Summary Statistics, data visualization, linear regression
 - Spearman's rank, ANOVA, clear concise explaination of results
 
+![alt text](images/usmap_murders.png)
+![alt text](images/scatterplot_murders.png)
+![alt text](images/barchart_state.png)
+
 
 
