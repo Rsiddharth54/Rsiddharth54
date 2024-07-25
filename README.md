@@ -49,8 +49,8 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 - Spearman's rank, ANOVA, clear concise explaination of results
 
 ![alt text](images/usmap_murders.png)
-![alt text](images/scatterplot_murders.png)
-![alt text](images/barchart_state.png)
+![alt text](images/scatter_murders.png)
+![alt text](images/state_barchart.png)
 
 
 
