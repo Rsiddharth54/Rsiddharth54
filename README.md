@@ -30,8 +30,7 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 
 # MORE PROJECTS COMING SOON!
 
-# Project 0 - Currently publishing a paper
-
+# [Project 0 - Stock Insight Analytic Tool]
 Abstract --------------------------------------------------------------
 
 This was my first group project. The basis of this project is factors that drive the stock market. We wanted a way for individuals who are new to the stock market learn what factors impact a stock, in a negative and positive way. We did a deep dive into 128 stocks ranging from the oil to AI sector and learned what factors affected not only the stock, but also the price change ratio of the next month's stock.
