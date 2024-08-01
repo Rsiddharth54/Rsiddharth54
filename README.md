@@ -18,7 +18,7 @@ Research Intern - Georgetown University                       May - August 2024
   Spatial Program: I participated in research projects funded by the NSA and NSF. Our research focused on builing a predictive stock portofilio analytic model using time series, webscraping, etc to predict the price change of the future month. Currrently I am working on publishing my findings. 
   
 Summer Technology Helper - Menlo Park School District         Jun 2023 - Aug 2023
-My main objective was quality maintenance for each iPads in the grade. I organized and managed data of the IPads, including routing numbers and serial numbers. Used JSON server to connect with laptops and integrate specific software to mitigate full usage of IPads for student.
+My main objective was quality maintenance for each iPads in the grade. I organized and managed data of the IPads, including routing numbers and serial numbers. Used JSON server to connect with laptops and integrate specific software to mitigate full usage of I-Pads for student.
 
 
 More related work experiences can be found at: https://www.linkedin.com/in/rishi-siddharth-0024ba235/
