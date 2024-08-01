@@ -30,6 +30,27 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 
 # MORE PROJECTS COMING SOON!
 
+# Project 0 - Currently publishing a paper
+
+Abstract --------------------------------------------------------------
+
+This was my first group project. The basis of this project is factors that drive the stock market. We wanted a way for individuals who are new to the stock market learn what factors impact a stock, in a negative and positive way. We did a deep dive into 128 stocks ranging from the oil to AI sector and learned what factors affected not only the stock, but also the price change ratio of the next month's stock.
+
+The attached presentation dives deeper into how we did this and what factors we used.
+[Predictive Model.pdf](https://github.com/user-attachments/files/16448578/Predictive.Model.pdf)
+
+![Screenshot 2024-07-31 at 6 25 53 PM](https://github.com/user-attachments/assets/32323104-809f-4612-abdc-203878befbb7)
+![Screenshot 2024-07-31 at 6 26 19 PM](https://github.com/user-attachments/assets/c055133d-dfa4-431d-a861-0889fd4799c3)
+![Screenshot 2024-07-31 at 6 26 39 PM](https://github.com/user-attachments/assets/c12fb870-81ad-4445-9d64-b8db826b5c6e)
+
+
+
+
+
+
+
+
+
 # [Project 1 - US Apartments](https://github.com/Rsiddharth54/U.S-Apartments-Project)
 Abstract ----
 The purpose of this project was to learn the basics of machine learning and to implement new data visualization techinques I wanted to play around with more. The dataset that featured US Apartments and their characteristics was a useful way to learn and utilize these concepts.
