@@ -31,6 +31,10 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 # MORE PROJECTS COMING SOON!
 
 # [Project 1 - US Apartments](https://github.com/Rsiddharth54/U.S-Apartments-Project)
+Abstract ----
+The purpose of this project was to learn the basics of machine learning and to implement new data visualization techinques I wanted to play around with more. The dataset that featured US Apartments and their characteristics was a useful way to learn and utilize these concepts.
+
+
 - Dataset involving apartments all over the U.S 
 - Data cleaning, data manipulation
 - Linear regression, mean sqaured error, and decision tree classifiers 
@@ -42,6 +46,10 @@ More related work experiences can be found at: https://www.linkedin.com/in/rishi
 
 
 # [Project 2 - Violence in America](https://drive.google.com/file/d/1nDogpm4zgvAgjSiDvB5WUJTseWvjF-h3/view?usp=drive_link)
+
+Abtract --------------------
+With this project I wanted to utlize new concepts learned in R. This was my first project, and I wanted to maintain the skills used in this project, so I turned it into a lesson of some sort. With everything I did; from data cleaning, maniupulation, graphics, and statiscal tests I documented how I did it, why, and analyzed every output. I got some great insights from a great dataset that consisted of America's crime: violence, robbery, and murder plus demographics, age, race, etc. 
+
 - Dataset that consisted of violence in America, split by murder, violence, robbery etc.
 - Conducted in Rstudio
 - Data manipulation, data cleaning,  (forcats, lubridate, ggplot, dplyr).
