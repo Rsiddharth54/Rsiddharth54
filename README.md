@@ -4,7 +4,7 @@ This repository is an introduction about me, my current projects/work experince,
 Feel free to contact me - rs5309a@student.american.edu
 ![alt text](Rishi.jpg.png)
 
-*American University and London School of Economics*
+*`American University and London School of Economics`*
 
 # Education 
 American University, Graduating 2026
