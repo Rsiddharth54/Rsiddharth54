@@ -1,9 +1,7 @@
 # Rishi Siddharth 
-# Hi! Welcome to my Github!
 
 
-
-**👋 Hi! Welcome to my GitHub!**  
+# **👋 Hi! Welcome to my GitHub!**  
 I'm a passionate Data Science major with a minor in International Business, currently studying at American University and London School of Economics. My expertise lies in predictive analytics, machine learning, and data visualization. Check out my projects and experience below!
 
 📧 [Contact Me](mailto:rs5309a@student.american.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/rishi-siddharth-0024ba235/)
