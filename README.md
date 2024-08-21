@@ -32,10 +32,21 @@ My main objective was quality maintenance for each iPads in the grade. I organiz
 
 
 More related work experiences can be found at: https://www.linkedin.com/in/rishi-siddharth-0024ba235/
+## 🛠️ Technical Skills
 
-# Languages 
-- R, Python, Stata, SQL, Excel
-- Currently learning: C, Julia, SAS
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
+![Stata](https://img.shields.io/badge/-Stata-2A50B3?style=flat-square&logo=stata&logoColor=white)
+
+**Currently Learning:**  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) 
+![SAS](https://img.shields.io/badge/-SAS-1E8BC3?style=flat-square&logo=sas&logoColor=white)
+
+---
+
 
 
 # MORE PROJECTS COMING SOON!
