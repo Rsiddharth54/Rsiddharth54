@@ -10,7 +10,7 @@ I'm a passionate Data Science major with a minor in International Business, curr
 
 This repository is an introduction about me, my current projects/work experince, and more. Enjoy!
 Feel free to contact me - rs5309a@student.american.edu
-![alt text](new_pic.jpg)
+![alt text](images/new_pic.jpg)
 
 *`American University and London School of Economics`*
 
