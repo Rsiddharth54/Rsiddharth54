@@ -119,3 +119,9 @@ USAfacts.org posted an article on November 8, 2023, which showed the highest mur
 https://usafacts.org/articles/which-states-have-the-highest-murder-rates/
 
 
+## 🚀 Let's Connect!
+I'm always open to discussing new projects, collaborations, or job opportunities. Feel free to [contact me](mailto:rs5309a@student.american.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/rishi-siddharth-0024ba235/).
+
+Thank you for visiting my GitHub profile!
+
+
