@@ -2,8 +2,6 @@
 # Hi! Welcome to my Github!
 
 
-# ![Rishi's Banner](https://your-banner-url.com) 
-# Rishi Siddharth
 
 **👋 Hi! Welcome to my GitHub!**  
 I'm a passionate Data Science major with a minor in International Business, currently studying at American University and London School of Economics. My expertise lies in predictive analytics, machine learning, and data visualization. Check out my projects and experience below!
