@@ -68,57 +68,6 @@
 </p>
 
 
-# Rishi Siddharth 
-
-
-# **👋 Hi! Welcome to my GitHub!**  
-I'm a passionate Data Science major with a minor in International Business, currently studying at American University and London School of Economics. My expertise lies in predictive analytics, machine learning, and data visualization. Check out my projects and experience below!
-
-📧 [Contact Me](mailto:rs5309a@student.american.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/rishi-siddharth-0024ba235/)
-
-This repository is an introduction about me, my current projects/work experince, and more. Enjoy!
-Feel free to contact me - rs5309a@student.american.edu
-
-
-![alt text](images/new_pic.jpg)
-
-*`American University and London School of Economics`*
-
-# Education 
-American University, Graduating 2026
-London School of Economics 2024-2025 (Jr Year)
-Data Science major, International Business minor
-
-# About Me!
-I still manage to have fun outside of work. I love soccer, and still currently play on the club team at AU where I am a D1 practice player for the women's team as well. 
-
-# Relevant Work Experience
-
-Research Intern - Georgetown University                       May - August 2024
-  Spatial Program: I participated in research projects funded by the NSA and NSF. Our research focused on builing a predictive stock portofilio analytic model using time series, webscraping, etc to predict the price change of the future month. Currrently I am working on publishing my findings. 
-  
-Summer Technology Helper - Menlo Park School District         Jun 2023 - Aug 2023
-My main objective was quality maintenance for each iPads in the grade. I organized and managed data of the IPads, including routing numbers and serial numbers. Used JSON server to connect with laptops and integrate specific software to mitigate full usage of I-Pads for student.
-
-
-More related work experiences can be found at: https://www.linkedin.com/in/rishi-siddharth-0024ba235/
-## 🛠️ Technical Skills
-
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
-![Stata](https://img.shields.io/badge/-Stata-2A50B3?style=flat-square&logo=stata&logoColor=white)
-
-**Currently Learning:**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) 
-![SAS](https://img.shields.io/badge/-SAS-1E8BC3?style=flat-square&logo=sas&logoColor=white)
-
----
-
-
-
 # MORE PROJECTS COMING SOON!
 
 # [Project 0 - Stock Insight Analytic Tool]
