@@ -1,3 +1,73 @@
+<!-- Cool Gradient Background Header -->
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #00c6ff, #0072ff); color: white; padding: 20px; border-radius: 15px;">👋 Hi! Welcome to my GitHub!</h1>
+
+<!-- Profile Summary -->
+<p align="center" style="font-size: 1.2em;">
+    I'm a passionate Data Science major with a minor in International Business, currently studying at American University and London School of Economics. My expertise lies in predictive analytics, machine learning, and data visualization. Check out my projects and experience below!
+</p>
+
+<!-- Contact and LinkedIn -->
+<p align="center">
+    📧 <a href="mailto:rs5309a@student.american.edu" style="color: #0072ff; text-decoration: none;"><strong>Contact Me</strong></a> |
+    🌐 <a href="https://www.linkedin.com/in/rishi-siddharth-0024ba235/" style="color: #0072ff; text-decoration: none;"><strong>LinkedIn</strong></a>
+</p>
+
+<!-- Profile Image -->
+<p align="center">
+    <img src="images/new_pic.jpg" alt="Profile Image" width="200" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0, 114, 255, 0.5);">
+</p>
+
+<!-- Education Section -->
+<h2 style="font-family: 'Courier New', Courier, monospace; color: #0072ff;">🎓 Education</h2>
+<ul style="font-size: 1.1em;">
+    <li><strong>American University</strong>, Graduating 2026</li>
+    <li><strong>London School of Economics</strong>, 2024-2025 (Junior Year)</li>
+    <li>Data Science major, International Business minor</li>
+</ul>
+
+<!-- About Me Section with Gradient Background -->
+<h2 style="font-family: 'Courier New', Courier, monospace; color: #0072ff;">🏅 About Me!</h2>
+<p style="background: linear-gradient(to right, #00c6ff, #0072ff); color: white; padding: 10px; border-radius: 10px;">
+    I still manage to have fun outside of work. I love soccer, and still currently play on the club team at AU where I am a D1 practice player for the women's team as well.
+</p>
+
+<!-- Work Experience Section -->
+<h2 style="font-family: 'Courier New', Courier, monospace; color: #0072ff;">💼 Relevant Work Experience</h2>
+<p style="font-size: 1.1em;">
+    <strong>Research Intern - Georgetown University</strong> (May - August 2024) <br>
+    Spatial Program: Participated in research projects funded by the NSA and NSF. Focused on building a predictive stock portfolio analytic model using time series and web scraping.
+</p>
+
+<p style="font-size: 1.1em;">
+    <strong>Summer Technology Helper - Menlo Park School District</strong> (Jun 2023 - Aug 2023) <br>
+    Managed quality maintenance for iPads and integrated software using JSON server.
+</p>
+
+<!-- Technical Skills with Icons and Badges -->
+<h2 style="font-family: 'Courier New', Courier, monospace; color: #0072ff;">🛠️ Technical Skills</h2>
+<p>
+    <!-- Skills Badges -->
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/-Stata-2A50B3?style=flat-square&logo=stata&logoColor=white" alt="Stata">
+</p>
+
+<!-- Currently Learning Section -->
+<p>
+    <strong>Currently Learning:</strong> <br>
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia">
+    <img src="https://img.shields.io/badge/-SAS-1E8BC3?style=flat-square&logo=sas&logoColor=white" alt="SAS">
+</p>
+
+<!-- Connect with Me Section -->
+<h2 style="font-family: 'Courier New', Courier, monospace; color: #0072ff;">🚀 Let's Connect!</h2>
+<p style="font-size: 1.1em;">
+    I'm always open to discussing new projects, collaborations, or job opportunities. Feel free to <a href="mailto:rs5309a@student.american.edu" style="color: #0072ff; text-decoration: none;"><strong>contact me</strong></a> or connect with me on <a href="https://www.linkedin.com/in/rishi-siddharth-0024ba235/" style="color: #0072ff; text-decoration: none;"><strong>LinkedIn</strong></a>.
+</p>
+
+
 # Rishi Siddharth 
 
 
